@@ -1,0 +1,196 @@
+[
+  {
+    "id": 1776412634294,
+    "date": "2026-04-17T07:57:14.294Z",
+    "status": "Completed",
+    "customerName": "fatin",
+    "customerPhone": "0111111111111",
+    "tableNumber": "2",
+    "items": [
+      {
+        "name": "Tomato & Basil Soup",
+        "quantity": 1,
+        "price": 2.125,
+        "tax": 0
+      }
+    ],
+    "total": 2.125,
+    "tax": 0,
+    "is_deleted": true,
+    "hidden_from_analytics": true
+  },
+  {
+    "id": 1776413646832,
+    "date": "2026-04-17T08:14:06.832Z",
+    "status": "Completed",
+    "customerName": "ahmed",
+    "customerPhone": "03179965258",
+    "tableNumber": "6",
+    "items": [
+      {
+        "name": "Buffalo wings",
+        "quantity": 1,
+        "price": 3.5535714285714284,
+        "tax": 0
+      }
+    ],
+    "total": 3.5535714285714284,
+    "tax": 0,
+    "is_deleted": true,
+    "hidden_from_analytics": true
+  },
+  {
+    "id": 1776413759944,
+    "date": "2026-04-17T08:15:59.944Z",
+    "status": "Completed",
+    "customerName": "ahmed",
+    "customerPhone": "03179965258",
+    "tableNumber": "6",
+    "items": [
+      {
+        "name": "Buffalo wings",
+        "quantity": 1,
+        "price": 3.5535714285714284,
+        "tax": 0
+      }
+    ],
+    "total": 3.5535714285714284,
+    "tax": 0,
+    "is_deleted": true,
+    "hidden_from_analytics": true
+  },
+  {
+    "id": 1776414250824,
+    "date": "2026-04-17T08:24:10.824Z",
+    "status": "Completed",
+    "customerName": "ahmed",
+    "customerPhone": "03179965258",
+    "tableNumber": "6",
+    "items": [
+      {
+        "name": "Nachos with Cheese & Salsa",
+        "quantity": 1,
+        "price": 3.5535714285714284,
+        "tax": 0
+      }
+    ],
+    "total": 3.5535714285714284,
+    "tax": 0,
+    "is_deleted": true,
+    "hidden_from_analytics": true
+  },
+  {
+    "id": 1776450287885,
+    "date": "2026-04-17T18:24:47.885Z",
+    "status": "Completed",
+    "customerName": "rayyan",
+    "customerPhone": "1234421",
+    "tableNumber": "3",
+    "items": [
+      {
+        "name": "Buffalo wings",
+        "quantity": 1,
+        "price": 3.5535714285714284,
+        "tax": 0
+      },
+      {
+        "name": "Crispy finger Chicken",
+        "quantity": 1,
+        "price": 3.5535714285714284,
+        "tax": 0
+      },
+      {
+        "name": "Stuffed Baked Mushroom",
+        "quantity": 1,
+        "price": 3.5535714285714284,
+        "tax": 0
+      }
+    ],
+    "total": 10.660714285714285,
+    "tax": 0,
+    "hidden_from_analytics": true,
+    "is_deleted": true
+  },
+  {
+    "id": 1776450354660,
+    "date": "2026-04-17T18:25:54.660Z",
+    "status": "Completed",
+    "customerName": "num",
+    "customerPhone": "1234421",
+    "tableNumber": "7",
+    "items": [
+      {
+        "name": "Hamburger",
+        "quantity": 1,
+        "price": 5.339285714285714,
+        "tax": 0
+      },
+      {
+        "name": "Chicken Fajita",
+        "quantity": 1,
+        "price": 5.696428571428571,
+        "tax": 0
+      },
+      {
+        "name": "Crispy Chicken Burger",
+        "quantity": 1,
+        "price": 4.267857142857143,
+        "tax": 0
+      },
+      {
+        "name": "Crispy finger Chicken",
+        "quantity": 1,
+        "price": 3.5535714285714284,
+        "tax": 0
+      },
+      {
+        "name": "Buffalo wings",
+        "quantity": 1,
+        "price": 3.5535714285714284,
+        "tax": 0
+      }
+    ],
+    "total": 22.41071428571428,
+    "tax": 0,
+    "hidden_from_analytics": true,
+    "is_deleted": true
+  },
+  {
+    "id": 1776490714109,
+    "date": "2026-04-18T05:38:34.109Z",
+    "status": "Completed",
+    "customerName": "rayyan",
+    "customerPhone": "03179965258",
+    "tableNumber": "7",
+    "items": [
+      {
+        "name": "Buffalo wings",
+        "quantity": 1,
+        "price": 3.5535714285714284,
+        "tax": 0
+      }
+    ],
+    "total": 3.5535714285714284,
+    "tax": 0,
+    "is_deleted": true,
+    "hidden_from_analytics": true
+  },
+  {
+    "id": 1776505308642,
+    "date": "2026-04-18T09:41:48.642Z",
+    "status": "Pending",
+    "customerName": "num",
+    "customerPhone": "1234421",
+    "tableNumber": "8",
+    "items": [
+      {
+        "name": "Nachos with Cheese & Salsa",
+        "quantity": 1,
+        "price": 3.5535714285714284,
+        "tax": 0
+      }
+    ],
+    "total": 3.5535714285714284,
+    "tax": 0
+  }
+]
